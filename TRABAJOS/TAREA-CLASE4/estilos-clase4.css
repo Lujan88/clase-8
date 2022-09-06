@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(176, 240, 240, 0.836);
+    margin-left: 15px;
+    
+}
+
+#boton{
+    background-color: rgb(16, 235, 63);
+    margin-left: 20px;
+    border-color:rgb(16, 235, 63);
+    width: 220px;
+    height: 45px;
+    color: white;
+    
+
+}
+.formulario{
+    background-color: white;
+    width: 20%;
+    height:70%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: solid 3px rgb(245, 241, 7);
+    margin-top: 10%;
+    text-align: center;
+    color: rgb(116, 116, 117);
+    font-style: inherit;
+}

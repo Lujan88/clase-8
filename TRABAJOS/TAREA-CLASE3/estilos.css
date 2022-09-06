@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+
+}
+footer{
+    background-color: rgb(6, 6, 99);
+    font-size: x-large;
+    border-color: black;
+    border: solid 5px;
+    padding-top: 30px;
+}
+.titulo-cabecera{
+font-size: xx-small;
+margin-left: 600;
+background-color: brown;
+}
+.botonera{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(213, 200, 224);
+
+}
+#h1{
+    font-size: 50px;
+}
+#h2{
+font-size: 40px;
+}
+#h3{
+font-size: 30px;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+article{
+    
+    border-radius: 10px;
+    color: black;
+}
+.contenedor1{
+display: grid;
+grid-template-columns: 200px 200px 200px;
+position: absolute;
+
+}
+#c1{
+background-color: rgb(146, 146, 247);
+color: beige;
+}
+#c2{
+    background-color: rgb(36, 36, 221);
+    color: beige;
+}
+#c3{
+    background-color: blue;
+    color: beige;
+}
+#c4{
+    background-color: rgb(4, 4, 104);
+    color: beige;
+}
+#c5{
+    background-color: rgb(2, 2, 44);
+    color: beige;
+}

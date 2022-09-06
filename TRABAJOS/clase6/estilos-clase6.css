@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    font: .9em/1.2 Arial, helvetica, sans-sherif;
+}
+.box{
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: brown;
+    padding: 1em;
+    float: left;
+    margin-right: 15px;
+
+}
+.clared{
+    clear: left;
+}
+.especial{
+    background-color: blue;
+    padding: 10px;
+    color: black;
+}
